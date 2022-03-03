@@ -41,7 +41,7 @@
       <td>2022-????</td>
       <td>CS50 By Harvard Student</td>
     </tr>
-    <p><em>Some Of My Projects Are Available At <a href="https://bernardoferreiraf.github.io/portfolio">Bernardo Ferreira F | Portfolio.</a></em></p>
+    <p><em>Some Of My Projects Are Available At <a href="https://bernardoferreiraf.github.io/Portfolio">Bernardo Ferreira F | Portfolio.</a></em></p>
   </tbody>
 </table>
 <hr>
