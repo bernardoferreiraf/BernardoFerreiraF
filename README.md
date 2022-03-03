@@ -1,6 +1,6 @@
 <table cellpadding="20">
   <tr>
-    <td><img src="./images/81824462.jpg" alt="Bernardo profile picture" width="300px" height="auto"></td>
+    <td><img src="./images/81824462.jpg" alt="Bernardo profile picture" width="250px" height="auto"></td>
     <td>
       <h1>Hi There! I'm Bernardo Ferreira F</h1>
       <p><em>A Passionate Front-end Devloper Based In Portugal...</em></p>
