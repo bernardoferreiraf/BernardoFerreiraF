@@ -11,9 +11,7 @@
 <hr>
 <h3>Books That I Recommend</h3>
 <ul>
-  <li>Ikigai: The Japanese Secret To a Long And Happy Life</li>
   <li>Sapiens: A Brief History Of Humankind</li>
-  <li>100 Mental Models</li>
 </ul>
 <hr>
 <h3>Work Experience</h3>
