@@ -31,10 +31,10 @@
       <td>2021</td>
       <td>Devloping Personal Projects</td>
     </tr>
-    <tr>
+    <!--<tr>
       <td>2022</td>
       <td>First Medium Article Published <a href="#" target="_blank">(read here)</a></td>
-    </tr>
+    </tr>-->
     <tr>
       <td>2022-????</td>
       <td>CS50 By Harvard Student</td>
