@@ -1,6 +1,6 @@
 <table cellpadding="20">
   <tr>
-    <td><img src="./images/profile-pic(4).png" alt="Bernardo profile picture" width="200px" height="auto"></td>
+    <td><img src="./profile-pic(4).png" alt="Bernardo profile picture" width="200px" height="auto"></td>
     <td>
       <h1>Hi There! I'm Bernardo Ferreira F</h1>
       <p><em>A Passionate Front-end Devloper Based In Portugal...</em></p>
@@ -35,10 +35,10 @@
       <td>2022</td>
       <td>First Medium Article Published <a href="#" target="_blank">(read here)</a></td>
     </tr>
-    <tr>
+    <!--<tr>
       <td>2022-202?</td>
       <td>CS50 By Harvard Student</td>
-    </tr>
+    </tr>-->
     <p><em>Some Of My Projects Are Available At <a href="https://bernardoferreiraf.github.io/Portfolio">Bernardo Ferreira F | Portfolio.</a></em></p>
   </tbody>
 </table>
