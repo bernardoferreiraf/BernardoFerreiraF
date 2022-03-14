@@ -24,18 +24,18 @@
   </thead>
   <tbody>
     <tr>
-      <td>2020-2021</td>
-      <td>Web Devlopment Bootcamp | Angela Yu's Student</td>
+      <td>2021</td>
+      <td>Join Web Devlopment Bootcamp By Angela Yu</td>
     </tr>
     <tr>
       <td>2021</td>
       <td>Devloping Personal Projects</td>
     </tr>
-    <tr>
+    <!--<tr>
       <td>2022</td>
       <td>First Medium Article Published <a href="#" target="_blank">(read here)</a></td>
     </tr>
-    <!--<tr>
+    <tr>
       <td>2022-202?</td>
       <td>CS50 By Harvard Student</td>
     </tr>-->
@@ -74,7 +74,7 @@
 <a href="https://instagram.com/bernardferreirf" target="_blank">Instagram</a> |
 <a href="https://twitter.com/bernardferreirf" target="_blank">Twitter</a> |
 <a href="https://linkedin.com/in/bernardoferreiraf" target="_blank">Linkedin</a> |
-<a href="https://medium.com/bernardoferreiraf" target="_blank">Medium</a>
+<a href="https://medium.com/@bernardoferreiraf" target="_blank">Medium</a>
 <br>
 <br />
 
