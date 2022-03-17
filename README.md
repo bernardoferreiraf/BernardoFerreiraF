@@ -24,8 +24,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>2021</td>
-      <td>Join Web Devlopment Bootcamp By Angela Yu</td>
+      <td>2021-???</td>
+      <td>Web Devlopment Bootcamp By Angela Yu</td>
     </tr>
     <tr>
       <td>2021</td>
