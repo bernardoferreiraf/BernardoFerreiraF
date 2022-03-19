@@ -68,17 +68,12 @@
     </td>
   </tr>
 </table>
-<!-- ACTION FORM STRAT -->
             <form action="https://api.web3forms.com/submit" method="POST">
               <input type="hidden" name="access_key" value="58b78a9e-df9e-438e-9cf9-0ef46240508f">
-              <!-- NAME -->
               <input type="text" name="name" id="name" placeholder="Name" required>
-              <!-- EMAIL -->
               <input type="email" name="email" id="email" placeholder="Email" required>
-              <!-- SUBJECT -->
               <input type="text" name="subject" id="subject" placeholder="Subject" required>
-              <!-- MESSAGE -->
-              <textarea name="message" rows="8" cols="80" placeholder="Message.."></textarea>
+              <!--<textarea name="message" rows="8" cols="80" placeholder="Message.."></textarea>-->
               <input type="hidden" name="redirect" value="https://bernardoferreiraf.netlify.app/success.html">
               <input type="submit" value="Send message">
             </form>
