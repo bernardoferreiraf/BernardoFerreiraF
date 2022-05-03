@@ -3,7 +3,7 @@
     <td><img src="./profile-pic(3).png" alt="Bernardo profile picture" width="200px" height="auto"></td>
     <td>
       <h1>Hi There! I'm Bernardo Ferreira F</h1>
-      <p><em>A Passionate Front-end Devloper Based In Portugal...</em></p>
+      <p><em>A Passionate Programmer Based In Portugal...</em></p>
       <p>Who dosn't loves a good time of coding and a cup of coffee? <a href="https://www.buymeacoffee.com/bernardferreirf" target="_blank"><small>(Also you can buy me a coffee &lt;3)</small></a></p>
     </td>
   </tr>
@@ -15,7 +15,7 @@
 </ul>
 <hr>
 <h3>Work Experience</h3>
-<table>
+<!--<table>
   <thead>
     <tr>
       <th>Dates</th>
@@ -24,24 +24,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>2021-???</td>
-      <td>Web Devlopment Bootcamp By Angela Yu</td>
+      <td>Jan 2022 - (Ago 2022)</td>
+      <td>CS50 By HarvardX</td>
     </tr>
     <tr>
-      <td>2021</td>
-      <td>Devloping Personal Projects</td>
+      <td>Jan 2022 - Mar 2022</td>
+      <td>Responsive Web Design By FreeCodeCap</td>
     </tr>
-    <!--<tr>
+    <tr>
       <td>2022</td>
       <td>First Medium Article Published <a href="#" target="_blank">(read here)</a></td>
     </tr>
     <tr>
-      <td>2022-202?</td>
+      <td>Jan 2022-202?</td>
       <td>CS50 By Harvard Student</td>
-    </tr>-->
+    </tr>
     <p><em>Some Of My Projects Are Available At <a href="https://bernardoferreiraf.github.io/Portfolio">Bernardo Ferreira F | Portfolio.</a></em></p>
   </tbody>
-</table>
+</table>-->
 <hr>
 <h3>Skills</h3>
 <table>
