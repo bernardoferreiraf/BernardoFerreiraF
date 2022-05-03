@@ -25,7 +25,7 @@
   <tbody>
     <tr>
       <td>Jan 2021 - Set 2021</td>
-      <td>Start The Self-Thougth Jorney As Programmer</td>
+      <td>Start The Jorney As Programmer</td>
     </tr>
     <tr>
       <td>Set 2021 - Dec 2021</td>
