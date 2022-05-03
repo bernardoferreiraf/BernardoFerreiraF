@@ -41,7 +41,7 @@
     </tr>-->
     <p><em>Some Of My Projects Are Available At <a href="https://bernardoferreiraf.github.io/Portfolio">Bernardo Ferreira F | Portfolio.</a></em></p>
   </tbody>
-</table>-->
+</table>
 <hr>
 <h3>Skills</h3>
 <table>
