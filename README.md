@@ -25,7 +25,7 @@
   <tbody>
     <tr>
       <td>Jan 2022 - (Ago 2022)</td>
-      <td><a href="https://cs50.harvard.edu/x/2022/" target="_blank">CS50 By HarvardX</a></td>
+      <td>CS50 By HarvardX <a href="https://cs50.harvard.edu/x/2022/" target="_blank">(what is)</a></td>
     </tr>
 <!--<tr>
       <td>2022</td>
