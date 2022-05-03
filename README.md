@@ -15,7 +15,7 @@
 </ul>
 <hr>
 <h3>Work Experience</h3>
-<!--<table>
+<table>
   <thead>
     <tr>
       <th>Dates</th>
@@ -24,21 +24,21 @@
   </thead>
   <tbody>
     <tr>
+      <td>Jan 2021 - Set 2021</td>
+      <td>Start The Self-Thougth Jorney As Programmer</td>
+    </tr>
+    <tr>
+      <td>Set 2021 - Dec 2021</td>
+      <td>Devloping Own Projects</td>
+    </tr>
+    <tr>
       <td>Jan 2022 - (Ago 2022)</td>
-      <td>CS50 By HarvardX</td>
+      <td>Start CS50 (Computer Science) By HarvardX</td>
     </tr>
-    <tr>
-      <td>Jan 2022 - Mar 2022</td>
-      <td>Responsive Web Design By FreeCodeCap</td>
-    </tr>
-    <tr>
+<!--     <tr>
       <td>2022</td>
-      <td>First Medium Article Published <a href="#" target="_blank">(read here)</a></td>
-    </tr>
-    <tr>
-      <td>Jan 2022-202?</td>
-      <td>CS50 By Harvard Student</td>
-    </tr>
+      <td>Writing Medium Article Published <a href="#" target="_blank">(read here)</a></td>
+    </tr> -->
     <p><em>Some Of My Projects Are Available At <a href="https://bernardoferreiraf.github.io/Portfolio">Bernardo Ferreira F | Portfolio.</a></em></p>
   </tbody>
 </table>-->
