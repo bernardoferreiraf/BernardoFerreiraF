@@ -24,14 +24,6 @@
   </thead>
   <tbody>
     <tr>
-      <td>Jan 2021 - Set 2021</td>
-      <td>Start The Jorney As Programmer</td>
-    </tr>
-    <tr>
-      <td>Set 2021 - Dec 2021</td>
-      <td>Devloping Own Projects</td>
-    </tr>
-    <tr>
       <td>Jan 2022 - (Ago 2022)</td>
       <td><a href="https://cs50.harvard.edu/x/2022/" target="_blank">CS50 By HarvardX</a></td>
     </tr>
