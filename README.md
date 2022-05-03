@@ -33,12 +33,12 @@
     </tr>
     <tr>
       <td>Jan 2022 - (Ago 2022)</td>
-      <td>Start CS50 (Computer Science) By HarvardX</td>
+      <td><a href="https://cs50.harvard.edu/x/2022/" target="_blank">CS50</a> By HarvardX</td>
     </tr>
-<!--     <tr>
+<!--<tr>
       <td>2022</td>
       <td>Writing Medium Article Published <a href="#" target="_blank">(read here)</a></td>
-    </tr> -->
+    </tr>-->
     <p><em>Some Of My Projects Are Available At <a href="https://bernardoferreiraf.github.io/Portfolio">Bernardo Ferreira F | Portfolio.</a></em></p>
   </tbody>
 </table>-->
