@@ -4,7 +4,7 @@
     <td>
       <h1>Hi There! I'm Bernardo Ferreira F</h1>
       <p><em>A Passionate Programmer Based In Portugal...</em></p>
-      <p>Who dosn't loves a good time of coding and a cup of coffee? <a href="https://www.buymeacoffee.com/bernardferreirf" target="_blank"><small>(Also you can buy me a coffee &lt;3)</small></a></p>
+      <p>Who dosn't loves a good time of coding and a cup of coffee?<!-- <a href="https://www.buymeacoffee.com/bernardferreirf" target="_blank"><small>(Also you can buy me a coffee &lt;3)</small></a>--></p>
     </td>
   </tr>
 </table>
