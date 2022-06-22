@@ -59,17 +59,16 @@
       </table>
     </td>
   </tr>
-  <tr>
-    <a href="https://app.daily.dev/bernardferreirf"><img src="https://api.daily.dev/devcards/415bf684e08e421888bcdca08538dc8e.png?r=vce" width="400" alt="Bernardo Ferreira F's Dev Card"/></a>
-  </tr>
 </table>
 <hr>
+
 <a href="https://bernardoferreiraf.github.io/Portfolio" target="_blank">Portfolio</a> |
 <a href="mailto:bernardoferreiraf@hotmail.com" target="_blank">Email</a> |
 <a href="https://instagram.com/bernardferreirf" target="_blank">Instagram</a> |
 <a href="https://twitter.com/bernardferreirf" target="_blank">Twitter</a> |
 <a href="https://linkedin.com/in/bernardoferreiraf" target="_blank">Linkedin</a> |
 <a href="https://medium.com/@bernardoferreiraf" target="_blank">Medium</a>
+<a href="https://app.daily.dev/bernardferreirf"><img src="https://api.daily.dev/devcards/415bf684e08e421888bcdca08538dc8e.png?r=vce" width="400" alt="Bernardo Ferreira F's Dev Card"/></a>
 <br>
 <br />
 
