@@ -59,6 +59,9 @@
       </table>
     </td>
   </tr>
+  <tr>
+    <a href="https://app.daily.dev/bernardferreirf"><img src="https://api.daily.dev/devcards/415bf684e08e421888bcdca08538dc8e.png?r=vce" width="400" alt="Bernardo Ferreira F's Dev Card"/></a>
+  </tr>
 </table>
 <hr>
 <a href="https://bernardoferreiraf.github.io/Portfolio" target="_blank">Portfolio</a> |
