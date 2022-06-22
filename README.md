@@ -68,6 +68,7 @@
 <a href="https://twitter.com/bernardferreirf" target="_blank">Twitter</a> |
 <a href="https://linkedin.com/in/bernardoferreiraf" target="_blank">Linkedin</a> |
 <a href="https://medium.com/@bernardoferreiraf" target="_blank">Medium</a>
+<br>
 <a href="https://app.daily.dev/bernardferreirf"><img src="https://api.daily.dev/devcards/415bf684e08e421888bcdca08538dc8e.png?r=vce" width="400" alt="Bernardo Ferreira F's Dev Card"/></a>
 <br>
 <br />
