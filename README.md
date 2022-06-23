@@ -61,7 +61,6 @@
   </tr>
 </table>
 <hr>
-
 <a href="https://bernardoferreiraf.github.io/Portfolio" target="_blank">Portfolio</a> |
 <a href="mailto:bernardoferreiraf@hotmail.com" target="_blank">Email</a> |
 <a href="https://instagram.com/bernardferreirf" target="_blank">Instagram</a> |
