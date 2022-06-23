@@ -62,8 +62,6 @@
 </table>
 <hr>
 
-<a href="https://app.daily.dev/bernardferreirf"><img src="https://api.daily.dev/devcards/415bf684e08e421888bcdca08538dc8e.png?r=vce" width="400" alt="Bernardo Ferreira F's Dev Card"/></a>
-<br>
 <a href="https://bernardoferreiraf.github.io/Portfolio" target="_blank">Portfolio</a> |
 <a href="mailto:bernardoferreiraf@hotmail.com" target="_blank">Email</a> |
 <a href="https://instagram.com/bernardferreirf" target="_blank">Instagram</a> |
