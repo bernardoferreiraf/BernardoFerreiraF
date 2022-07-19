@@ -63,9 +63,7 @@
 <hr>
 <a href="https://bernardoferreiraf.github.io/Portfolio" target="_blank">Portfolio</a> |
 <a href="mailto:bernardoferreiraf@hotmail.com" target="_blank">Email</a> |
-<a href="https://linkedin.com/in/bernardoferreiraf" target="_blank">Linkedin</a> |
-<a href="https://instagram.com/bernardferreirf" target="_blank">Instagram</a> |
-<a href="https://twitter.com/bernardferreirf" target="_blank">Twitter</a>
+<a href="https://linkedin.com/in/bernardoferreiraf" target="_blank">Linkedin</a>
 
 <br>
 <br />
