@@ -2,7 +2,7 @@
   <tr>
     <td><img src="./profile-pic(3).png" alt="Bernardo profile picture" width="200px" height="auto"></td>
     <td>
-      <h1>Hi There! I'm Bernardo Ferreira F</h1>
+      <h1>Hi There! I'm Bernardo Ferreira F &emsp;&emsp;&emsp;&emsp;</h1>
       <p><em>A Passionate Programmer Based In Portugal...</em></p>
     </td>
   </tr>
