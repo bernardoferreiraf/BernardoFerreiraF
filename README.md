@@ -4,13 +4,13 @@
     <td>
       <h1>Hi There! I'm Bernardo Ferreira F</h1>
       <p><em>A Passionate Programmer Based In Portugal...</em></p>
-      <p>Who dosn't loves a good time of coding and a cup of coffee?<!-- <a href="https://www.buymeacoffee.com/bernardferreirf" target="_blank"><small>(Also you can buy me a coffee &lt;3)</small></a>--></p>
     </td>
   </tr>
 </table>
 <hr>
 <h3>Books That I Recommend</h3>
 <ul>
+  <li>The Self-Taught Programmer</li>
   <li>Sapiens: A Brief History Of Humankind</li>
 </ul>
 <hr>
@@ -41,7 +41,7 @@
     <td>
       <table>
         <tr>
-          <td>Web Devloper</td>
+          <td>Web Devlopment</td>
           <td>⛤⛤⛤⛤</td>
         </tr>
         <tr>
